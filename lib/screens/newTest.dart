@@ -25,7 +25,7 @@ class _GraphScreenState extends State<GraphScreen> {
     List<List<double>> abc = [a,b,c,d];
 
     List<Feature> list =  List<Feature>();
-    for(var i = 0; i < GlobalVariables.myAllData.length; i++){
+    for(var i = 0; i < 4; i++){
 
       Feature w =  Feature(
         title: GlobalVariables.myAllData[i].name,
