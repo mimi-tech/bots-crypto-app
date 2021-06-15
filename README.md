@@ -1,16 +1,19 @@
 # bots_crypto_app
 
-A new Flutter application
+A futter crypto application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built with flutter. In this project I was able to create my cypto APIs with node searver and consume them using flutter.
 
-A few resources to get you started if this is your first Flutter project:
+It also involve graphs and charts for coin analysis. This project also invoved the CRUD operations 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1, Listing of coins. [Post request]
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2, Getting the coins listed.[Get request]
+
+3, Updating the coin details that has been listed.[Put request]
+
+4, Deleting any listed coin of your choice.[Del request]
+
+It also contain two unit testing and has a very beautiful ul with amazing colors.
