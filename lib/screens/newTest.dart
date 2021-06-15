@@ -104,7 +104,7 @@ Timer _timer;
     getFeature();
 
 
-    for(int i = 0; i < GlobalVariables.myAllData.length; i++){
+    for(int i = 0; i < 4; i++){
       String o = GlobalVariables.myAllData[i].price.toString();
       p.add(o);
       fj.add(GlobalVariables.myAllData[i].name);
