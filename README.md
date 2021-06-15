@@ -4,9 +4,9 @@ A futter crypto application
 
 ## Getting Started
 
-This project is built with flutter. In this project I was able to create my cypto APIs with node searver and consume them using flutter.
+This project was built using flutter. In this project I was able to create my crypto APIs with node server and consume them using flutter.
 
-It also involve graphs and charts for coin analysis. This project also invoved the CRUD operations 
+It also involve graphs and charts for coin analysis. This project also involved the CRUD operations 
 
 1, Listing of coins. [Post request]
 
